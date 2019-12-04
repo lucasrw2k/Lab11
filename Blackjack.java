@@ -10,6 +10,8 @@ public class Blackjack {
         int dealerWs = 0;
         int ties = 0;
 
+        // change made for lab 11
+
         while (program){ //Loops the game to begin a new game
             int handCount = 0;
             int dealer;
